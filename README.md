@@ -7,7 +7,7 @@ This project focuses on forecasting Tesla (TSLA) stock prices using historical f
 
 ├── notebooks/
 │   └── portfolio_analysis.ipynb # Jupyter Notebook containing the main Exploratory Data Analysis (EDA)
-   └── modeling.ipynb # Jupyter Notebook containing the modeling
+|   └── modeling.ipynb # Jupyter Notebook containing the modeling
 ├── scripts/
 │   ├── prepro_eda.py         # Module for loading and cleaning data from YFinance and performing Exploratory Data Analysis (EDA)
 ├── .gitignore                 # Specifies intentionally untracked files that Git should ignore
@@ -84,7 +84,7 @@ This project focuses on forecasting Tesla (TSLA) stock prices using historical f
     * `python -m venv venv` (or `conda create -n venv python=3.x`)
     * Activate the virtual environment: `source venv/bin/activate` (Linux/macOS) or `venv\Scripts\activate` (Windows).
 3.  Install the required libraries: `pip install -r requirements.txt`
-4.  Navigate to the `notebooks/` directory and run the Jupyter Notebook `portfolio_analysis.ipynb` to execute the analysis and modeling.
+4.  Navigate to the `notebooks/` directory and run the Jupyter Notebook `portfolio_analysis.ipynb` and `modeling.ipynb`to execute the analysis and modeling.
 
 ## Future Improvements
 
