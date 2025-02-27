@@ -1,1 +1,1 @@
-pip install pandas matplotlib seaborn streamlit Scikit-learn yfinance datetime numpy stats
+pip install pandas matplotlib seaborn streamlit Scikit-learn yfinance datetime numpy stats pmdarima warnings tensorflow arima
