@@ -4,5 +4,4 @@ data/
 __pycache__
 .vscode/
 .github/
-notebooks/forecastS.ipynb
 notebooks/old notebooks
